@@ -7,7 +7,7 @@ streamlit
 uvicorn
 pydantic
 httpx
-requests
+requests  
 langchain_google_community
 langchain_tavily
 langchain_groq
